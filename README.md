@@ -1,6 +1,6 @@
 # IoT-Project
 Various Embedded Devices utilized to create a sensor system which displays captured data. 
-These devices were programmed with the Arduino IDE using C. 
+These devices were programmed with the Arduino IDE using C++. 
 A Mosquitto MQTT Server was utilized to enable client devices to publish and subscribe.
 
 An MQTT Server was runs so that the various embedded devices could publish and subscribe to sensor data. 
